@@ -6,3 +6,4 @@ pinecone
 sentence-transformers 
 einops
 google-genai
+docx
