@@ -6,4 +6,4 @@ pinecone
 sentence-transformers 
 einops
 google-genai
-docx
+python-docx
