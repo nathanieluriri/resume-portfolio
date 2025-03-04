@@ -1,0 +1,8 @@
+fastapi[all]
+requests
+python-dotenv
+pymupdf
+pinecone
+sentence-transformers 
+einops
+google-genai
